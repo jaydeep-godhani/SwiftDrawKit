@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/jaydeep-godhani/SwiftDrawKit)
 ![GitHub stars](https://img.shields.io/github/stars/jaydeep-godhani/SwiftDrawKit?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/jaydeep-godhani/SwiftDrawKit?style=social)
-![Platform](https://img.shields.io/badge/platform-iOS%209%2B-blue.svg?style=flat)
+![Platform](https://img.shields.io/badge/platform-iOS%2013.0%2B-blue.svg?style=flat)
 ![Language](https://img.shields.io/badge/language-swift%205-4BC51D.svg?style=flat)
 ![License](http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)
 
