@@ -11,7 +11,9 @@
 
 SwiftDrawKit is a simple, light-weight drawing framework written in Swift. SwiftDrawKit is built using Core Gaphics and is very easy to implement.
 
-https://github.com/user-attachments/assets/aca167f0-4300-4aca-8a30-4fd29722464a
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c1e4ea50-6ad4-4ec6-bee4-13467040a11c" alt="Demo" width="270"/>
+</div>
 
 ## Requirements
 
